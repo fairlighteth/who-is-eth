@@ -1,0 +1,26 @@
+{
+  "name": "who-is-eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairlighteth/who-is-eth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairlighteth/who-is-eth/issues"
+  },
+  "homepage": "https://github.com/fairlighteth/who-is-eth#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.0"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
