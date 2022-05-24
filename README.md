@@ -1,5 +1,6 @@
 # who-is-eth
 Who is eth? Run a batch check on a list of Ethereum addresses to check if it's a contract or an EOA (externally owned account).
+Only for Ethereum mainnet.
 
 ## Setup
 Add your provider url (e.g. Infura) to line 1 (PROVIDER_URL) of file `check.js` 
